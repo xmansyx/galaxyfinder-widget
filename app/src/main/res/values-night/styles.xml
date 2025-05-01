@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="RobotoMedium">
-        <item name="android:textStyle">bold</item>
-        <item name="android:fontFamily">sec-roboto-light</item>
-    </style>
-
-    <!-- Define animation styles for the widget configuration activity -->
+    <!-- Define animation styles for the widget configuration activity in dark mode -->
     <style name="WidgetConfigTheme" parent="android:Theme.DeviceDefault.NoActionBar">
-        <!-- Status bar and navigation bar settings for light mode -->
+        <!-- Status bar and navigation bar settings for dark mode -->
         <item name="android:statusBarColor">?android:attr/colorBackground</item>
         <item name="android:navigationBarColor">?android:attr/colorBackground</item>
         
@@ -17,9 +12,9 @@
         <item name="android:windowExitTransition">@android:transition/fade</item>
         
         <!-- Card styles -->
-        <item name="android:colorAccent">@color/widget_background_dark_color</item>
+        <item name="android:colorAccent">@color/widget_background_light_color</item>
         
         <!-- Prevent harsh window background color -->
         <item name="android:windowBackground">?android:attr/colorBackground</item>
     </style>
-</resources>
+</resources> 

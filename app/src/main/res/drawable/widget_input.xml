@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shape xmlns:android="http://schemas.android.com/apk/res/android"
-       android:shape="rectangle">
-    <corners android:radius="@dimen/widget_background_radius" />
-    <solid android:color="@color/widget_background_color" />
-</shape>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- This is now a dynamic selector that will be set programmatically -->
+    <item android:drawable="@drawable/widget_background_transparent" />
+</selector>

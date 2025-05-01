@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
                     android:minWidth="110dp"
-                    android:minHeight="40dp"
+                    android:minHeight="48dp"
                     android:resizeMode="horizontal"
                     android:updatePeriodMillis="0"
                     android:initialLayout="@layout/widget"
                     android:widgetCategory="home_screen"
+                    android:configure="ris58h.galaxyfinder.widget.ConfigurationActivity"
+                    android:previewImage="@drawable/widget_background_light"
+                    android:previewLayout="@layout/widget_preview"
+                    android:description="@string/widget_description"
+                    android:widgetFeatures="reconfigurable|configuration_optional"
 />

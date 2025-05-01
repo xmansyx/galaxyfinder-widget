@@ -1,4 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Finder Widget</string>
-    <string name="widget_text">Search</string>
+    <string name="app_name">Galaxy Finder Widget</string>
+    <string name="widget_text">Search your phone</string>
+    <string name="widget_configuration">Widget Configuration</string>
+    <string name="background_color">Background Color</string>
+    <string name="text_color">Text Color</string>
+    <string name="transparent">Transparent</string>
+    <string name="dark">Dark</string>
+    <string name="light">Light</string>
+    <string name="save">Save</string>
+    <string name="widget_settings">Widget Settings</string>
+    <string name="widget_description">Search your phone with Galaxy Finder</string>
+    <string name="transparency">Transparency</string>
+    <string name="custom_colors">Custom Colors</string>
+    <string name="reset_to_defaults">Reset to Defaults</string>
+    <string name="choose_color">Choose Color</string>
+    <string name="preview">Preview</string>
+    <string name="select_custom_color">Select Custom Color</string>
 </resources>

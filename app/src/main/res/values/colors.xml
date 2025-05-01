@@ -2,4 +2,17 @@
 <resources>
     <color name="widget_background_color">#33fcfcfc</color>
     <color name="widget_hint_text_color">#99fafafa</color>
+    
+    <!-- Background colors -->
+    <color name="widget_background_transparent">#33fcfcfc</color>
+    <color name="widget_background_dark">#CC333333</color>
+    <color name="widget_background_light">#CCfcfcfc</color>
+    
+    <!-- Base colors without alpha for transparency control -->
+    <color name="widget_background_dark_color">#333333</color>
+    <color name="widget_background_light_color">#fcfcfc</color>
+    
+    <!-- Text colors -->
+    <color name="widget_text_light">#99fafafa</color>
+    <color name="widget_text_dark">#99333333</color>
 </resources>
