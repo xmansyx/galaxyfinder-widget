@@ -4,6 +4,8 @@ This is an enhanced fork of the [original Finder Widget by ris58h](https://githu
 
 ![Demo](demo.gif)
 
+If you find this enhanced version useful, [buy me a coffee](https://buymeacoffee.com/xmansyx) ☕
+
 ## What's New in this Fork
 
 - **Customizable widget appearance**:
@@ -44,3 +46,4 @@ There are two options:
 - Enhanced by [xmansyx](https://github.com/xmansyx)
 
 If you enjoyed the original project, consider [buying a coffee for ris58h](https://www.buymeacoffee.com/ris58h).
+If you like this enhanced version, [buy me a coffee](https://buymeacoffee.com/xmansyx) as well!
